@@ -32,7 +32,6 @@ Ayush.getDetails();
 int salary= Swapnil.getSalary();
 System.out.println("Salary of "+ Swapnil.name +" is " +salary);
  
-
 //System.out.println("id: " +Swapnil.id);
 //System.out.println("name:" + Swapnil.name);
     }
