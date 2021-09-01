@@ -26,6 +26,7 @@ public class javaCondition {
      else{
          System.out.println("you need more experience to check the level");
      }
+     sc.close(); //closing the scanner to stop resourse leak
      
     }
 }

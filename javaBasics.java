@@ -1,4 +1,8 @@
-import java.util.Scanner;         
+import java.util.Scanner; 
+static float sum(double x, double y ){
+    return (float) (x+y); //typecasting of method
+}
+
 class javaBasics1 {
     public static void main(String[] args) {
         System.out.println("Taking Input From the User");
@@ -18,6 +22,11 @@ class javaBasics1 {
        boolean b1 = sc.hasNextInt();
        System.out.println(b1);
 
+       //method  calling and typcasting
+       double d= sum(3.0f, (float) 2.0);
+       System.out.println(d);
+
+
     }
 
     public class javaBasics2{
@@ -25,5 +34,5 @@ class javaBasics1 {
         System.out.println("second class");}
     }
 }
-
+}
 
