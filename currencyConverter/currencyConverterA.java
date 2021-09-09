@@ -11,8 +11,12 @@ package currencyConverter;
 
     class CurrencyConverter2{
    // double [] exchangeRates={63,3,3,595, 18, 107, 2};
+   String [] currencyNames;
    double[] exchangeRates;
-
+   
+    void setCurrencyName(String[] names){
+        currencyNames= names;
+    }
     void setExchangeRates(double[] rates){
         exchangeRates= rates;
     };
@@ -23,13 +27,15 @@ package currencyConverter;
        return amount * getExchangeRate(arrayIndex);
     }
 
-
     
+    //  String getCurrencyName(int arrayIndex){
+    //      return getExchangeRate(arrayIndex);
+    //     } 
 
     void printCurrencies(){
-        System.out.println("rupees: " + exchangeRates[0]);
-        System.out.println("dirham: " + exchangeRates[1]);
-        System.out.println("$dollar: " + exchangeRates[exchangeRates.length-1]);
+        System.out.println(currencyNames[0]+ " " + exchangeRates[0]);
+        System.out.println( currencyNames[1]+" " + exchangeRates[1]);
+        System.out.println(currencyNames[currencyNames.length-1] +" " +exchangeRates[exchangeRates.length-1]);
     }
 
 }
@@ -37,10 +43,14 @@ public class currencyConverterA {
     public static void main(String Args[]){
     
        CurrencyConverter2 cc= new CurrencyConverter2();
+       String[] names={"rupees", "dirham", "real", "chilian peso","mexican peso", "yen", "$australian Dollar"};
        //jan 1st 
        double[] rates=  {63,3,3,595, 18, 107, 2};
+
        //we can only declare statement like this, in assignment we have to use new keyword
        cc.setExchangeRates(rates);//sending argument 
+       cc.setCurrencyName(names);
+      
 
        //jan 2nd
        rates=new double[] {65,5,5,597, 19, 104, 4};

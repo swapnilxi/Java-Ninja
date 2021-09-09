@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch WithoutUsingSortMethod",
+            "request": "launch",
+            "mainClass": "WithoutUsingSortMethod",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaInterfaces",
+            "request": "launch",
+            "mainClass": "javaInterfaces",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaAbstract",
+            "request": "launch",
+            "mainClass": "javaAbstract",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch guessTheNumber",
+            "request": "launch",
+            "mainClass": "Exercise_programs.guessTheNumber",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch inheritance",
+            "request": "launch",
+            "mainClass": "inheritance",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiarray",
+            "request": "launch",
+            "mainClass": "JavaDSA.multiarray",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoDarray",
+            "request": "launch",
+            "mainClass": "JavaDSA.twoDarray",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaObject",
+            "request": "launch",
+            "mainClass": "javaObject",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaMethods",
+            "request": "launch",
+            "mainClass": "javaMethods",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
             "name": "Launch javaClass",
             "request": "launch",
             "mainClass": "javaClass",
