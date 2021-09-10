@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch selectionSort",
+            "request": "launch",
+            "mainClass": "JavaDSA.selectionSort",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubbleSort",
+            "request": "launch",
+            "mainClass": "JavaDSA.bubbleSort",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
             "name": "Launch WithoutUsingSortMethod",
             "request": "launch",
             "mainClass": "WithoutUsingSortMethod",
