@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch javaMultithreding",
+            "request": "launch",
+            "mainClass": "javaMultithreding",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
             "name": "Launch selectionSort",
             "request": "launch",
             "mainClass": "JavaDSA.selectionSort",
