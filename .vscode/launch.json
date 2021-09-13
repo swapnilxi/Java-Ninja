@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionSort",
+            "request": "launch",
+            "mainClass": "insertionSort",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
             "name": "Launch myNewThread2$javaThredingmethods",
             "request": "launch",
             "mainClass": "myNewThread2$javaThredingmethods",

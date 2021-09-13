@@ -14,5 +14,9 @@
             "password": "swapnil"
         }
     ],
-    "java.format.settings.url": "eclipse-formatter.xml"
+    "java.format.settings.url": "eclipse-formatter.xml",
+    "java.project.sourcePaths": [
+        "Exercise_programs/Shapes",
+        "JavaDSA"
+    ]
 }
