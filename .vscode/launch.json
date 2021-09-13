@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Launch selectionSort",
             "request": "launch",
             "mainClass": "selectionSort",
@@ -34,6 +35,8 @@
         },
         {
             "type": "java",
+=======
+>>>>>>> parent of 3b9f5dd (thread methods)
             "name": "Launch javaMultithreding",
             "request": "launch",
             "mainClass": "javaMultithreding",

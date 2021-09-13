@@ -16,7 +16,9 @@
     ],
     "java.format.settings.url": "eclipse-formatter.xml",
     "java.project.sourcePaths": [
+        "JavaDSA1",
+        "JavaDSA",
         "Exercise_programs/Shapes",
-        "JavaDSA"
+        "Exercise_programs"
     ]
 }
