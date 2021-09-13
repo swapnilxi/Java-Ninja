@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch myNewThread2$javaThredingmethods",
+            "request": "launch",
+            "mainClass": "myNewThread2$javaThredingmethods",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaThredingmethods",
+            "request": "launch",
+            "mainClass": "javaThredingmethods",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
             "name": "Launch javaMultithreding",
             "request": "launch",
             "mainClass": "javaMultithreding",
