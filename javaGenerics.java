@@ -23,7 +23,7 @@ public T1 getT1(){
 public void setT1(T1 t1){
     this.t1=t1;
     }
-    public T2 getT2(){
+public T2 getT2(){
         return t2;
     }
     public void setT2(T2 t2){
@@ -46,7 +46,7 @@ public class javaGenerics {
        int a= arraylist.get(2);
     System.out.println(a);
     */
-    myGeneric<String, Integer> g1 = new myGeneric(23, "MyString is my string ", 45);
+    myGeneric<String, Integer> g1 = new myGeneric(23, "MyString is my string", 45);
     String str = g1.getT1();
     Integer int1= g1.getT2();
     System.out.println(str + int1);    
