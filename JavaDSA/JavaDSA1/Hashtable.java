@@ -2,7 +2,7 @@ package JavaDSA1;
 
 
 
-public class javaHashtable {
+public class Hashtable {
      public static void main(String[] args) {
         class Employee {
 
