@@ -1,0 +1,192 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+<<<<<<< HEAD
+            "name": "Launch selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionSort",
+            "request": "launch",
+            "mainClass": "insertionSort",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch myNewThread2$javaThredingmethods",
+            "request": "launch",
+            "mainClass": "myNewThread2$javaThredingmethods",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaThredingmethods",
+            "request": "launch",
+            "mainClass": "javaThredingmethods",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+=======
+>>>>>>> parent of 3b9f5dd (thread methods)
+            "name": "Launch javaMultithreding",
+            "request": "launch",
+            "mainClass": "javaMultithreding",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch selectionSort",
+            "request": "launch",
+            "mainClass": "JavaDSA.selectionSort",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubbleSort",
+            "request": "launch",
+            "mainClass": "JavaDSA.bubbleSort",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch WithoutUsingSortMethod",
+            "request": "launch",
+            "mainClass": "WithoutUsingSortMethod",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaInterfaces",
+            "request": "launch",
+            "mainClass": "javaInterfaces",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaAbstract",
+            "request": "launch",
+            "mainClass": "javaAbstract",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch guessTheNumber",
+            "request": "launch",
+            "mainClass": "Exercise_programs.guessTheNumber",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch inheritance",
+            "request": "launch",
+            "mainClass": "inheritance",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiarray",
+            "request": "launch",
+            "mainClass": "JavaDSA.multiarray",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoDarray",
+            "request": "launch",
+            "mainClass": "JavaDSA.twoDarray",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaObject",
+            "request": "launch",
+            "mainClass": "javaObject",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaMethods",
+            "request": "launch",
+            "mainClass": "javaMethods",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaClass",
+            "request": "launch",
+            "mainClass": "javaClass",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaArray",
+            "request": "launch",
+            "mainClass": "JavaArray",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLoop",
+            "request": "launch",
+            "mainClass": "JavaLoop",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaBasics1",
+            "request": "launch",
+            "mainClass": "javaBasics1",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaBasics1$javaBasics2",
+            "request": "launch",
+            "mainClass": "javaBasics1$javaBasics2",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaCondition",
+            "request": "launch",
+            "mainClass": "javaCondition",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaPractice",
+            "request": "launch",
+            "mainClass": "javaPractice",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaAccessModifierA",
+            "request": "launch",
+            "mainClass": "p1.javaAccessModifierA",
+            "projectName": "Java_c7de2b4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaAccessModifierB",
+            "request": "launch",
+            "mainClass": "p1.javaAccessModifierB",
+            "projectName": "Java_c7de2b4d"
+        }
+    ]
+}
