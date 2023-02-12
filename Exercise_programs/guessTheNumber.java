@@ -1,4 +1,4 @@
-package Exercise_programs;
+
 import java.util.Random;
 import java.util.Scanner;
 
