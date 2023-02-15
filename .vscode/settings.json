@@ -16,11 +16,16 @@
     ],
     "java.format.settings.url": "eclipse-formatter.xml",
     "java.project.sourcePaths": [
-        "JavaDSA1",
         "JavaDSA",
+<<<<<<< HEAD
         "Exercise_programs/Shapes",
         "Exercise_programs",
         "."
+=======
+        "Basics/Stacks and Queues",
+        "Basics",
+        ""
+>>>>>>> 1d0251d543471fb20a91676e6a60e656582f5128
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
