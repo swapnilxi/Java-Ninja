@@ -21,5 +21,6 @@
         "Exercise_programs/Shapes",
         "Exercise_programs",
         "."
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
