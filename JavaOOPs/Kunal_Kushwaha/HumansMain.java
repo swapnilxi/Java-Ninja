@@ -9,10 +9,13 @@ public class HumansMain {
         System.out.println("swapnil.population: " + swapnil.population );
         System.out.println("kunal.population: " + kunal.population );
         Human.message();
-      
 
         HumansMain funn= new HumansMain();
         funn.fun2();
+
+        //singleTon
+        private singleTon instance;
+
     }
     //static method- nonstatic 
     static void fun(){
